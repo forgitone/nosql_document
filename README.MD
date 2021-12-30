@@ -139,12 +139,14 @@ and the complexity is explain by the followed table
 
 the followed is some samples for ins's command
 
-    ins 100 999
-    ins 100 nth 10 999
-    ins 100 first 999
-    ins 100 last 99
-    ins 100 ptr_of 0x10000000
-    ins 100 200 300
+            ins 100 999  
+            ins 100 nth 10 999  
+            ins 100 first 999  
+            ins 100 last 99  
+            ins 100 ptr_of 0x10000000  
+            ins 100 200 300  
+            
+            
 
 #### del
 
