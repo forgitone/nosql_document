@@ -81,9 +81,11 @@ get's syntax:
         get key/key_name operator
 
 the operator support for different struct in the followed table
+
 ![Alt text](get_op.png "get command support")
 
 and the complexity is explain by the followed table
+
 ![Alt text](get_c.png "get command complexity")
 
 the followed is some samples for get's command
@@ -128,9 +130,11 @@ ins's syntax:
 the operator only nth, first, last, ptr_of
 
 the operator support for different struct in the followed table
+
 ![Alt text](ins_op.png "ins command support")
 
 and the complexity is explain by the followed table
+
 ![Alt text](ins_c.png "get command complexity")
 
 the followed is some samples for ins's command
@@ -184,9 +188,11 @@ set's syntax:
               set key/key_name operator value
 
 the operator support for different struct in the followed table
+
 ![Alt text](set_op.png "set command support")
 
 and the complexity is explain by the followed table
+
 ![Alt text](set_c.png "set command support")
 
 the followed is some samples for set's command
