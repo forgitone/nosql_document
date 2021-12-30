@@ -232,7 +232,7 @@ the shucantech nosql database is free for use. you can download from http://www.
 
 or
 
-http://www.shucantech.com/en/trial.html
+http://www.shucantech.com/zh/trial.html
 
 
 
