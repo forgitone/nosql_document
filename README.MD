@@ -82,11 +82,11 @@ get's syntax:
 
 the operator support for different struct in the followed table
 
-![Alt text](get_op.png "get command support")
+![Alt get_op](https://github.com/SCTDER/nosql_document/raw/main/get_op.png "get command support")
 
 and the complexity is explain by the followed table
 
-![Alt text](get_c.png "get command complexity")
+![Alt get_c](https://github.com/SCTDER/nosql_document/raw/main/get_c.png "get command complexity")
 
 the followed is some samples for get's command
 
@@ -131,11 +131,11 @@ the operator only nth, first, last, ptr_of
 
 the operator support for different struct in the followed table
 
-![Alt text](ins_op.png "ins command support")
+![Alt ins_op](https://github.com/SCTDER/nosql_document/raw/main/ins_op.png "ins command support")
 
 and the complexity is explain by the followed table
 
-![Alt text](ins_c.png "get command complexity")
+![Alt ins_c](https://github.com/SCTDER/nosql_document/raw/main/ins_c.png "ins command complexity")
 
 the followed is some samples for ins's command
 
@@ -155,10 +155,10 @@ del's syntax:
               del key/key_name operator
 
 the operator support for different struct in the followed table
-![Alt text](del_op.png "del command support")
+![Alt del_op](https://github.com/SCTDER/nosql_document/raw/main/del_op.png "del command support")
 
 and the complexity is explain by the followed table
-![Alt text](del_c.png "del command support")
+![Alt del_c](https://github.com/SCTDER/nosql_document/raw/main/del_c.png "del command support")
 
 the followed is some samples for del's command
 
@@ -191,11 +191,11 @@ set's syntax:
 
 the operator support for different struct in the followed table
 
-![Alt text](set_op.png "set command support")
+![Alt set_op](https://github.com/SCTDER/nosql_document/raw/main/set_op.png "set command support")
 
 and the complexity is explain by the followed table
 
-![Alt text](set_c.png "set command support")
+![Alt set_c](https://github.com/SCTDER/nosql_document/raw/main/set_c.png "set command support")
 
 the followed is some samples for set's command
 
